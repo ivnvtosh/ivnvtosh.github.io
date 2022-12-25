@@ -8,7 +8,7 @@ theme: cayman
 
 | 1   | 2   | 3   |
 | :-- | :-- | :-- |
-| a | https://ivnvtosh.github.io |
+| a | https://ivnvtosh.github.io/base |
 | b | f | f |
 | c | f | f |
 | d | f | f |
